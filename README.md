@@ -2,7 +2,7 @@
 
 Welcome to my **Data_Structure** repository! This repository is dedicated to learning and practicing Data Structures and Algorithms (DSA) tailored for Data Science. It is structured into different levels to help you progress from the basics to advanced topics, with a focus on concepts relevant to data manipulation, analysis, and computational efficiency.
 
-<br><br><br>
+<br>
 
 ## Table of Contents
 1. [Repository Structure](#repository-structure)
