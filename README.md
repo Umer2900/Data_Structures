@@ -65,8 +65,11 @@ We welcome contributions! If you would like to add new examples, problems, or im
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
 
-- **GitHub:** [https://github.com/Umer2900](https://github.com/Umer2900)
-- **Email:** [janumer2901@gmail.com](mailto:janumer2901@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/mohammad-umer-jan-b41303261](https://www.linkedin.com/in/mohammad-umer-jan-b41303261)
+- **GitHub:** <a href="https://github.com/Umer2900" target="_blank">https://github.com/Umer2900</a>
+- **Email:** <a href="mailto:janumer2901@gmail.com" target="_blank">janumer2901@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mohammad-umer-jan-b41303261" target="_blank">www.linkedin.com/in/mohammad-umer-jan-b41303261</a>
+
+<br>
 I'm always happy to connect with fellow developers and learners. You can also open an issue if you encounter any bugs or have ideas for improvements.
+
 
