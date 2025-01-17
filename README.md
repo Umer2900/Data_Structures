@@ -9,7 +9,7 @@ Welcome to my **Data_Structure** repository! This repository is dedicated to lea
 2. [Contribution Guidelines](#contribution-guidelines)
 3. [Contact](#contact)
 
-<br><br><br>
+<br>
 
 ## Repository Structure
 
@@ -54,7 +54,7 @@ The repository is organized into the following levels and topics:
 - Hashmaps and dictionaries.
 - Key-value pair operations.
 
-<br><br><br>
+<br>
 
 ## Contribution Guidelines
 
@@ -64,18 +64,18 @@ We welcome contributions! If you would like to add new examples, problems, or im
 2. Create a new branch for your changes.
 3. Commit your changes and create a pull request.
 
-<br><br><br>
+<br>
 
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
 
-- **GitHub:** [https://github.com/Umer2900](https://github.com/Umer2900){:target="_blank"}
-- **Email:** [janumer2901@gmail.com](mailto:janumer2901@gmail.com){:target="_blank"}
-- **LinkedIn:** [www.linkedin.com/in/mohammad-umer-jan-b41303261](https://www.linkedin.com/in/mohammad-umer-jan-b41303261){:target="_blank"}
-
+- **GitHub:** [https://github.com/Umer2900](https://github.com/Umer2900)
+- **Email:** [janumer2901@gmail.com](mailto:janumer2901@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/mohammad-umer-jan-b41303261](https://www.linkedin.com/in/mohammad-umer-jan-b41303261)
 <br>
 I'm always happy to connect with fellow developers and learners. You can also open an issue if you encounter any bugs or have ideas for improvements.
+
 
 
 
